@@ -20,7 +20,7 @@ If you can't use GitHub, you can use other providers:
             "build": {
                 "publish": [{
                     "provider": "github",
-                    "owner": "iffy",
+                    "owner": "pedrocarreira1",
                     "repo": "electron-updater-example"
                 }],
                 ...
